@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webThucHanh1.props" />
+</Project>
